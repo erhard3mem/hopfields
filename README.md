@@ -1,1 +1,1 @@
-# hopfields
+# hopfields-monome
